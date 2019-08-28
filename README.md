@@ -4,3 +4,5 @@ This repository is used for the call for Presentation for the [Knowledge Graph F
 Please see the website for registration & more information.
 
 If you would like to submit a presentation, simply create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues/new) and fill out the template.
+We have slots for 6 sessions of one hour each.
+If we have more than 6 proposals, we will let participants vote upfront.

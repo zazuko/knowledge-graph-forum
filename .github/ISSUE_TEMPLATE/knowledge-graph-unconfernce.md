@@ -12,3 +12,5 @@ assignees: ''
 # Who might be interested in that (technical audience, management, data scientists, etc.)
 
 # What would you like to know from other participants, what feedback are you looking for
+
+# What is your background (name, affiliation, etc)

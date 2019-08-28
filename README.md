@@ -9,6 +9,10 @@ If we have more than 6 proposals, we will let participants vote upfront, most pr
 
 Please note that while we organize it mostly upfront, the session should be unconference style: You are welcome to start with a presentation of your own but it should not last longer than 20 minutes (we will be strict about that). The rest of the time should be used to have an interaction with the audience about the topic you present.
 
+For a proposal, we ask you to provide us with:
+
+
+
 ## What we look for in the sessions
 
 * Real-world use cases of RDF-based Knowledge Graphs.

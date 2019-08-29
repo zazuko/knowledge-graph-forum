@@ -7,7 +7,7 @@ If you would like to submit a session, simply create a [new issue](https://githu
 We have slots for 6 sessions of one hour each.
 If we have more than 6 proposals, we will let participants vote upfront, most probably in the GitHub issues itself.
 
-Please note that while we organize it mostly upfront, the session should be unconference style: You are welcome to start and do a presentation of the topic on your own but it should not last longer than 20 minutes (we will be strict about that). The rest of the time should be used to have an interaction with the audience about the topic you present. There are screens in all rooms.
+Please note that while we organize it mostly upfront to save time, the session should be unconference style: You are welcome to start and do a presentation of the topic on your own but it should not last longer than 20 minutes (we will be strict about that). The rest of the time should be used to have an interaction with the audience about the topic you present. There are screens in all rooms.
 
 For a session proposal, we ask you to provide us with:
 - What would you like to talk about

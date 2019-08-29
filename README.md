@@ -1,17 +1,19 @@
 # Knowledge Graph Forum 2019
 
-This repository is used for the call for Presentation for the [Knowledge Graph Forum](https://dinacon.ch/knowledge-graph-forum-2019/) on October 18th 2019 in Bern, Switzerland.
+This repository is used for the call for sessions for the [Knowledge Graph Forum](https://dinacon.ch/knowledge-graph-forum-2019/) on October 18th 2019 in Bern, Switzerland.
 Please see the website for registration & more information.
 
-If you would like to submit a presentation, simply create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues/new) and fill out the template.
+If you would like to submit a session, simply create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues/new) and fill out the template.
 We have slots for 6 sessions of one hour each.
 If we have more than 6 proposals, we will let participants vote upfront, most probably in the GitHub issues itself.
 
-Please note that while we organize it mostly upfront, the session should be unconference style: You are welcome to start with a presentation of your own but it should not last longer than 20 minutes (we will be strict about that). The rest of the time should be used to have an interaction with the audience about the topic you present.
+Please note that while we organize it mostly upfront, the session should be unconference style: You are welcome to start and do a presentation of the topic on your own but it should not last longer than 20 minutes (we will be strict about that). The rest of the time should be used to have an interaction with the audience about the topic you present. There are screens in all rooms.
 
-For a proposal, we ask you to provide us with:
-
-
+For a session proposal, we ask you to provide us with:
+- What would you like to talk about
+- Who might be interested in that (technical audience, management, data scientists, etc.)
+- What would you like to know from other participants, what feedback are you looking for?
+- What is your background (name, affiliation, etc)
 
 ## What we look for in the sessions
 

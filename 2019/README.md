@@ -4,6 +4,8 @@ This folder contains the slides that were made available for the Knowledge Graph
 
 You can find the description of the event at its [website](https://dinacon.ch/knowledge-graph-forum-2019/).
 
+Also [check out the review]( https://www.linkedin.com/pulse/1st-knowledge-graph-forum-2019-thomas-teske/) by [Thomas Teske](https://twitter.com/ThomasTeskeOrcl/).
+
 ## Morning Keynotes
 
 - [Katariina Kari](https://dinacon.ch/speakers/katariina-kari/) ([Twitter](https://twitter.com/katsi111)) from Zalando was giving an introduction to Knowledge Graphs and in particular what they do at Zalando related to Knowledge Graphs. The full keynote is available on [YouTube](https://www.youtube.com/watch?v=QkgAFKL26Vg). 

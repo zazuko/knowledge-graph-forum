@@ -1,7 +1,10 @@
-# Knowledge Graph Forum 2019
+# Knowledge Graph Forum
 
-This repository is used for the call for sessions for the [Knowledge Graph Forum](https://dinacon.ch/knowledge-graph-forum-2019/) on October 18th 2019 in Bern, Switzerland.
-Please see the website for registration & more information.
+This repository is used for the call for sessions for the [Knowledge Graph Forum](https://dinacon.ch/knowledge-graph-forum-2019/). The first edition 2019 was a great success, please see the [separate page](2019/README.md) for links to videos & presentations (where available).
+
+We plan to redo the event in 2020, information can be found here early 2020.
+
+## How to propose a new session
 
 If you would like to submit a session, simply create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues/new/choose) and fill out the *Knowledge Graph Unconfernce*  template by clicking on *Get Started*.
 We have slots for 6 sessions of one hour each.

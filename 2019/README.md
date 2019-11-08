@@ -2,7 +2,7 @@
 
 This folder contains the slides that were made available for the Knowledge Graph Forum 2019.
 
-You can find the description of the event at its [website](https://dinacon.ch/knowledge-graph-forum-2019/).
+You can find the description of the event at its [website](https://dinacon.ch/knowledge-graph-forum-2019/) and we [blogged about it](https://zazuko.com/blog/knowledge-graph-forum-2019/) on our website.
 
 Also [check out the review]( https://www.linkedin.com/pulse/1st-knowledge-graph-forum-2019-thomas-teske/) by [Thomas Teske](https://twitter.com/ThomasTeskeOrcl/).
 

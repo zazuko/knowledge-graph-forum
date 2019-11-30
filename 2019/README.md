@@ -24,6 +24,6 @@ Also [check out the review]( https://www.linkedin.com/pulse/1st-knowledge-graph-
 - [SPARQL: federation in practice](https://dinacon.ch/sessions/session/sparql-federation-in-practice/)
 - [SPARQL 1.2: Community group, how to improve SPARQL](https://dinacon.ch/sessions/session/sparql-1-2-community-group-how-to-improve-sparql/)
 - [Using RDF, Github and PSPS to provide accessible RDF data about species](https://dinacon.ch/sessions/session/using-rdf-github-and-psps-to-provide-accessible-rdf-data-about-species/)
-- [Accelerating lead times and inventory with Knowledge Graphs at RFS](https://dinacon.ch/sessions/session/accelerating-lead-times-and-inventory-with-knowledge-graphs-at-rfs/)
+- [Accelerating lead times and inventory with Knowledge Graphs at RFS](https://dinacon.ch/sessions/session/accelerating-lead-times-and-inventory-with-knowledge-graphs-at-rfs/): [Slides](Accelerating-Lead-Times-Inventory-Nokia-RFS.pdf)
 - TERMDAT: A Terminology between Semantics & Syntax: [Slides](https://die.wissens.in.gen.ieu.re/conventus/oratio/2019-10-18.bern.knowledge-graph-forum/index.html)
 

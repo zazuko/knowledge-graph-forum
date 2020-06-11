@@ -1,8 +1,16 @@
 # Knowledge Graph Forum
 
-This repository is used for the call for sessions for the [Knowledge Graph Forum](https://dinacon.ch/knowledge-graph-forum-2019/). The first edition 2019 was a great success, please see the [separate page](2019/README.md) for links to videos & presentations (where available).
+This repository is used for the call for sessions for the Knowledge Graph Forum. 
 
-We plan to redo the event in 2020, information can be found here early 2020.
+## Safe the date: September 8, 2020
+
+The 2020 edition of the Knowledge Graph Forum will take place on September 8 2020 (Tuesday). It will take place in Zurich, Switzerland at the _Oracle Smart Innovation Center_.
+
+A call for presentations and more information about the event will be announced here shortly.
+
+## Presentations 2019
+
+The first edition 2019 was a great success, please see the [separate page](2019/README.md) for links to videos & presentations (where available).
 
 ## How to propose a new session
 

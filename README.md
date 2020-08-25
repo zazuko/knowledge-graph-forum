@@ -4,9 +4,13 @@ This repository is used for the call for sessions for the Knowledge Graph Forum.
 
 ## Save the date: September 8, 2020
 
-The 2020 edition of the Knowledge Graph Forum will take place on September 8 2020 (Tuesday). It will take place in Zurich, Switzerland at the _Oracle Smart Innovation Center_.
+__Update__: As many of you probably imagined it will not happen this year. The building where we planned the event is not available for any events this year, a decision that was taken after we set the date. An online-only event is not an option for us.
 
-A call for presentations and more information about the event will be announced here shortly.
+We hope to restart in 2021!
+
+~~The 2020 edition of the Knowledge Graph Forum will take place on September 8 2020 (Tuesday). It will take place in Zurich, Switzerland.~~
+
+~~A call for presentations and more information about the event will be announced here shortly.~~
 
 ## Presentations 2019
 

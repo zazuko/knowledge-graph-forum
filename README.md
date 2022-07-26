@@ -2,39 +2,20 @@
 
 This repository is used for the call for sessions for the Knowledge Graph Forum. 
 
-## Save the date: September 8, 2020
+The 2022 edition of the Knowledge Graph Forum will take place on September 29 2022 (Thursday). It will take place in Zurich, Switzerland (Area Viaduktstrasse/Industriequartier).
 
-__Update__: As many of you probably imagined it will not happen this year. The building where we planned the event is not available for any events this year, a decision that was taken after we set the date. An online-only event is not an option for us.
-
-We hope to restart in 2021!
-
-~~The 2020 edition of the Knowledge Graph Forum will take place on September 8 2020 (Tuesday). It will take place in Zurich, Switzerland.~~
-
-~~A call for presentations and more information about the event will be announced here shortly.~~
+A call for presentations and more information about the event will be announced here shortly.
 
 ## Presentations 2019
 
 The first edition 2019 was a great success, please see the [separate page](2019/README.md) for links to videos & presentations (where available).
-
-## How to propose a new session
-
-If you would like to submit a session, simply create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues/new/choose) and fill out the *Knowledge Graph Unconfernce*  template by clicking on *Get Started*.
-We have slots for 6 sessions of one hour each.
-If we have more than 6 proposals, we will let participants vote upfront, most probably in the GitHub issues itself.
-
-Please note that while we organize it mostly upfront to save time, the session should be unconference style: You are welcome to start and do a presentation of the topic on your own but it should not last longer than 20 minutes (we will be strict about that). The rest of the time should be used to have an interaction with the audience about the topic you present. There are screens in all rooms.
-
-For a session proposal, we ask you to provide us with:
-- What would you like to talk about
-- Who might be interested in that (technical audience, management, data scientists, etc.)
-- What would you like to know from other participants, what feedback are you looking for?
-- What is your background (name, affiliation, etc)
 
 ## What we look for in the sessions
 
 * Real-world use cases of RDF-based Knowledge Graphs.
 * Any topic about scaling and using RDF in the real world. This includes prototypes, tools, libraries, etc.
 * Lessons learned in using RDF Knowledge Graphs in the real world. We also welcome things that did not work out and projects that failed!
+* If you are a consulting company, we prefer if your customer is doing the presentation.
 
 ## What we do not look for
 

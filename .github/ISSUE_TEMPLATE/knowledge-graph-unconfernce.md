@@ -16,4 +16,4 @@ assignees: ''
 # What is your background (name, affiliation, etc)
 
 # Would you be open to have the session filmed & published later?
-_Might or might not happen, does absolutely not influence if your session is selected or not_
+_Might or might not happen, does absolutely not influence if your session is selected or not. YES/NO answer_

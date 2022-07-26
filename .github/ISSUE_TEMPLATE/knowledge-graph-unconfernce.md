@@ -14,3 +14,5 @@ assignees: ''
 # What would you like to know from other participants, what feedback are you looking for
 
 # What is your background (name, affiliation, etc)
+
+# Would you be open to have the session filmed & published later? (Might or might not happen, does not influence if your session is selected or not)

@@ -1,11 +1,4 @@
----
-name: Knowledge Graph Unconfernce
-about: Create a new session proposal for the Knowledge Graph Unconference
-title: ''
-labels: ''
-assignees: ''
-
----
+Please add the title for the talk in the issue title itself.
 
 # What would you like to talk about
 _This is not a paper abstract, just describe what you did & what you would like to talk about in a few sentences._

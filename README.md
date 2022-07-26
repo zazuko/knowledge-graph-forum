@@ -2,7 +2,7 @@
 
 This repository is used for the call for sessions for the Knowledge Graph Forum. 
 
-The 2022 edition of the Knowledge Graph Forum will take place on September 29 2022 (Thursday). It will take place in Zurich, Switzerland (Area Viaduktstrasse/Industriequartier).
+The 2022 edition of the Knowledge Graph Forum will take place on September 29 2022 (Thursday). It will take place in Zurich, Switzerland (Area Viadukt/Industriequartier).
 
 A call for presentations and more information about the event will be announced here shortly.
 

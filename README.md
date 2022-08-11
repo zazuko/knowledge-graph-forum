@@ -4,7 +4,13 @@ This repository is used for the call for sessions for the Knowledge Graph Forum.
 
 The 2022 edition of the Knowledge Graph Forum will take place on September 29 2022 (Thursday). It will take place in Zurich, Switzerland (Area Viadukt/Industriequartier).
 
-A call for presentations and more information about the event will be announced here shortly.
+## CfP 11.08.2022
+
+Call for presentation is now open! Please create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues) and use the CfP Issue Template and fill it out accordingly.
+
+The CfP is open until 31st of August 2022. We will followup one week later if your presentation is selected or not.
+
+Note that we expect you to show up for the event in case your presentation is selected! Do not apply if this can't be guaranteed. Presenters do not have to pay for the event, visitors will have to pay a small cover fee for the event to pay for location, food & stuff. Remaining expenses are payed/sponsored by us (Zazuko GmbH).
 
 ## Presentations 2019
 

@@ -8,7 +8,9 @@ The 2022 edition of the Knowledge Graph Forum will take place on September 29 20
 
 Call for presentation is now open! Please create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues) and use the CfP Issue Template and fill it out accordingly.
 
-The CfP is open until 31st of August 2022. We will followup one week later if your presentation is selected or not.
+~The CfP is open until 31st of August 2022. We will followup one week later if your presentation is selected or not.~
+
+1.9.2022: CfP is closed, thanks a lot for everyone applying! It looks like an excellent program and we will announce registration & sessions shortly.
 
 Note that we expect you to show up for the event in case your presentation is selected! Do not apply if this can't be guaranteed. Presenters do not have to pay for the event, visitors will have to pay a small cover fee for the event to pay for location, food & stuff. Remaining expenses are payed/sponsored by us (Zazuko GmbH).
 

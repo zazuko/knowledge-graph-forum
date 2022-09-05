@@ -2,6 +2,12 @@
 
 This repository is used for the call for sessions for the Knowledge Graph Forum. 
 
+The Knowledge Graph Forum is a place where companies can show each other their use cases in the field of knowledge graphs. The aim is to learn and benefit from other projects.
+
+Each company has a 20 minute slot to present their use case, followed by 10 minutes of questions. The focus of the presentations is very much on real-world, there will be explicitly no sales presentations from vendors.
+
+The venue will allow people to get to know each other better and to discuss specific issues that may arise from the presentations in smaller groups during the day.
+
 The 2022 edition of the Knowledge Graph Forum will take place on September 29 2022 (Thursday). It will take place in Zurich, Switzerland (Area Viadukt/Industriequartier).
 
 ## CfP 11.08.2022

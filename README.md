@@ -8,7 +8,22 @@ Each company will have 20 minutes to present their use case, followed by a 10-mi
 
 The venue will provide an opportunity to network and discuss specific topics that may arise from the presentations.
 
-The 2022 edition of the Knowledge Graph Forum will take place on September 29 2022 (Thursday). It will take place in Zurich, Switzerland (Area Viadukt/Industriequartier).
+The 2022 edition of the Knowledge Graph Forum will take place on **September 29 2022 (Thursday)**. It will take place in Zurich, Switzerland (Area Viadukt/Industriequartier).
+
+The program is very dense and very interesting, the following companies will present their use case:
+
+* BWK Energy: KG for consistent Smart Meter Operations.
+* IKEA Systems: Semantic and transparent ETL pipelines.
+* Roche Pharma: Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0
+* CUI: Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data
+* Ontopic: Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem
+* UBS: The role of KGs and the means of implementation in UBS
+* derivo: KGs and Reasoning - What does it take to manage the complexity of real-world industry problems?
+* Siemens Smart Infrastructure: Enabling Large-Scale Data Integrity Checks for Building Automation and Control Systems
+* La Mobilière: Know your Data: A Graph based 360° Enterprise  Data Catalog
+* Swiss Institute of Bioinformatics: UniProt: the largest public KG 
+* Swiss Institute of Bioinformatics: Federation: beyond the home organization
+
 
 ## CfP 11.08.2022
 

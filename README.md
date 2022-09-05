@@ -12,8 +12,6 @@ The 2022 edition of the Knowledge Graph Forum will take place on **September 29 
 
 The program is very dense and very interesting, the following companies will present their use case:
 
-The program is very dense and very interesting, the following companies will present their use case:
-
 * [BWK Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20): KG for consistent Smart Meter Operations.
 * [IKEA Systems](https://github.com/zazuko/knowledge-graph-forum/issues/19): Semantic and transparent ETL pipelines.
 * [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0
@@ -25,17 +23,6 @@ The program is very dense and very interesting, the following companies will pre
 * [La Mobilière](https://github.com/zazuko/knowledge-graph-forum/issues/12): Know your Data: A Graph based 360° Enterprise  Data Catalog
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/10): UniProt: the largest public KG 
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/11): Federation: beyond the home organization
-
-
-## CfP 11.08.2022
-
-Call for presentation is now open! Please create a [new issue](https://github.com/zazuko/knowledge-graph-forum/issues) and use the CfP Issue Template and fill it out accordingly.
-
-~The CfP is open until 31st of August 2022. We will followup one week later if your presentation is selected or not.~
-
-1.9.2022: CfP is closed, thanks a lot for everyone applying! It looks like an excellent program and we will announce registration & sessions shortly.
-
-Note that we expect you to show up for the event in case your presentation is selected! Do not apply if this can't be guaranteed. Presenters do not have to pay for the event, visitors will have to pay a small cover fee for the event to pay for location, food & stuff. Remaining expenses are payed/sponsored by us (Zazuko GmbH).
 
 ## Presentations 2019
 

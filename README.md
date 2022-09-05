@@ -14,15 +14,15 @@ The program is very dense and very interesting, the following companies will pre
 
 * [BWK Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20): KG for consistent Smart Meter Operations.
 * [IKEA Systems](https://github.com/zazuko/knowledge-graph-forum/issues/19): Semantic and transparent ETL pipelines.
-* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0
-* [CUI](https://github.com/zazuko/knowledge-graph-forum/issues/17): Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data
-* [Ontopic](https://github.com/zazuko/knowledge-graph-forum/issues/16): Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem
-* [UBS](https://github.com/zazuko/knowledge-graph-forum/issues/15): The role of KGs and the means of implementation in UBS
+* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0.
+* [CUI](https://github.com/zazuko/knowledge-graph-forum/issues/17): Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data.
+* [Ontopic](https://github.com/zazuko/knowledge-graph-forum/issues/16): Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem.
+* [UBS](https://github.com/zazuko/knowledge-graph-forum/issues/15): The role of KGs and the means of implementation in UBS.
 * [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/14): KGs and Reasoning - What does it take to manage the complexity of real-world industry problems?
-* [Siemens Smart Infrastructure](https://github.com/zazuko/knowledge-graph-forum/issues/13): Enabling Large-Scale Data Integrity Checks for Building Automation and Control Systems
-* [La Mobilière](https://github.com/zazuko/knowledge-graph-forum/issues/12): Know your Data: A Graph based 360° Enterprise  Data Catalog
-* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/10): UniProt: the largest public KG 
-* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/11): Federation: beyond the home organization
+* [Siemens Smart Infrastructure](https://github.com/zazuko/knowledge-graph-forum/issues/13): Enabling Large-Scale Data Integrity Checks for Building Automation and Control Systems.
+* [La Mobilière](https://github.com/zazuko/knowledge-graph-forum/issues/12): Know your Data: A Graph based 360° Enterprise  Data Catalog.
+* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/10): UniProt: the largest public KG.
+* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/11): Federation: beyond the home organization.
 
 ## Presentations 2019
 

@@ -12,7 +12,7 @@ The 2022 edition of the Knowledge Graph Forum will take place on **September 29 
 
 The program is very dense and very interesting, the following companies will present their use case:
 
-* [BWK Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20): KG for consistent Smart Meter Operations.
+* [BKW Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20): KG for consistent Smart Meter Operations.
 * [IKEA Systems](https://github.com/zazuko/knowledge-graph-forum/issues/19): Semantic and transparent ETL pipelines.
 * [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0.
 * [CUI](https://github.com/zazuko/knowledge-graph-forum/issues/17): Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data.

@@ -8,7 +8,7 @@ Each company will have 20 minutes to present their use case, followed by a 10-mi
 
 The venue will provide an opportunity to network and discuss specific topics that may arise from the presentations.
 
-The 2022 edition of the Knowledge Graph Forum will take place on **September 29 2022 (Thursday)**. It will take place in Zurich, Switzerland (Area Viadukt/Industriequartier).
+The 2022 edition of the Knowledge Graph Forum will take place on **September 29 2022 (Thursday)**. It will take place in Zurich, Switzerland at [SIT Academy](https://sit.academy/) which kindly accommodates us (Area [Viadukt/Industriequartier](https://goo.gl/maps/jNkep5FNytVGFMRF7)).
 
 The program is very dense and very interesting, the following companies will present their use case:
 

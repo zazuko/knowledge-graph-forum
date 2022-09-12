@@ -10,6 +10,8 @@ The venue will provide an opportunity to network and discuss specific topics tha
 
 The 2022 edition of the Knowledge Graph Forum will take place on **September 29 2022 (Thursday)**. It will take place in Zurich, Switzerland at [SIT Academy](https://sit.academy/) which kindly accommodates us (Area [Viadukt/Industriequartier](https://goo.gl/maps/jNkep5FNytVGFMRF7)).
 
+**Registration for 2022**: [Eventfrog](https://eventfrog.ch/de/p/wissenschaft-und-technik/knowledge-graph-forum-2022-en-6972880506569257209.html) or [Eventbrite](https://www.eventbrite.fr/e/knowledge-graph-forum-2022-en-tickets-415903587827)
+
 The program is very dense and very interesting, the following companies will present their use case:
 
 * [BKW Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20): KG for consistent Smart Meter Operations.

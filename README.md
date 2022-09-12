@@ -2,6 +2,8 @@
 
 This repository is used for the call for sessions for the Knowledge Graph Forum. 
 
+![kgforum-banner](https://user-images.githubusercontent.com/583021/189692188-f21d21fb-1e89-4370-a9e2-ee22f58db77e.jpg)
+
 The Knowledge Graph Forum is a place where companies can present their ongoing work and use cases in the field of knowledge graphs. The aim is to learn and benefit from the experiences and insights gained from their respective projects.
 
 Each company will have 20 minutes to present their use case, followed by a 10-minute discussion. The presentations will focus on practical implementation. Sales presentations by vendors are explicitly not allowed.

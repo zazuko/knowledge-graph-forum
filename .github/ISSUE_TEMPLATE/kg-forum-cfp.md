@@ -20,3 +20,7 @@ _This is not a paper abstract, just describe what you did & what you would like 
 
 # Would you be open to have the session filmed & published later?
 _Might or might not happen, does absolutely not influence if your session is selected or not. YES/NO answer._
+
+# Screenshot for Social Media
+
+_For promotion on social media, a picture or screenshot would be great of any form. You can drag & drop it in here. Note that this will be public so make sure that no confidential data is in the screenshot._

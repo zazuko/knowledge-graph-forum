@@ -14,6 +14,8 @@ The 2022 edition of the Knowledge Graph Forum will take place on **September 29 
 
 **Registration for 2022**: [Eventfrog](https://eventfrog.ch/de/p/wissenschaft-und-technik/knowledge-graph-forum-2022-en-6972880506569257209.html) or [Eventbrite](https://www.eventbrite.fr/e/knowledge-graph-forum-2022-en-tickets-415903587827)
 
+## Presentations 2022
+
 The program is very dense and very interesting, the following companies will present their use case:
 
 * [BKW Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20) (Peter Hutzli): KG for consistent Smart Meter Operations.
@@ -27,6 +29,26 @@ The program is very dense and very interesting, the following companies will pre
 * [La Mobilière](https://github.com/zazuko/knowledge-graph-forum/issues/12) (Adrian Meyer): Know your Data: A Graph based 360° Enterprise  Data Catalog.
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/10) (Jerven Bolleman): UniProt: the largest public KG.
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/11)(Jerven Bolleman): Federation: beyond the home organization.
+
+## Schedule 2022
+
+| Start       | Topic                                                        | Speaker         | Organization                      |
+| ----------- | ------------------------------------------------------------ | --------------- | --------------------------------- |
+| 9:45        | Opening by Zazuko & Short presentation of SIT Academy        |                 |                                   |
+| 10:00       | UniProt: The largest public KG.                              | Jerven Bolleman | Swiss Institute of Bioinformatics |
+| 10:30       | Semantic and transparent ETL pipelines.                      | Katariina Kari  | IKEA Systems                      |
+| 11:00       | The role of KGs and the means of implementation in UBS.      | Ran Zucker      | UBS                               |
+| 11:30       | KG for consistent Smart Meter Operations.                    | Peter Hutzli    | BKW Energy                        |
+| 12:00       | KGs and Reasoning - What does it take to manage the complexity of real-world industry problems? | Thorsten Liebig | derivo                            |
+| 12:30       | Know your Data: A Graph based 360° Enterprise Data Catalog.  | Adrian Meyer    | La Mobilière                      |
+| 13:00-14:00 | Lunch @ Markthalle                                           |                 |                                   |
+| 14:00       | Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data. | Ashley Caselli  | CUI                               |
+| 14:30       | Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem. | Benjamin Cogrel | Ontopic                           |
+| 15:00       | Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0. | Cedric Berger   | Roche Pharma                      |
+| 15:30       | Enabling Large-Scale Data Integrity Checks for Building Automation and Control Systems. | Maria Husmann   | Siemens Smart Infrastructure      |
+| 16:00       | Federation: Beyond the home organization.                    | Jerven Bolleman | Swiss Institute of Bioinformatics |
+| 16:30       | Apéro & Networking                                           |                 |                                   |
+
 
 ## Presentations 2019
 

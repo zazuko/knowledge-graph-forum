@@ -19,9 +19,9 @@ The 2022 edition of the Knowledge Graph Forum will take place on **September 29 
 The program is very dense and very interesting, the following companies will present their use case:
 
 * [BKW Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20) (Peter Hutzli): KG for consistent Smart Meter Operations. [Slides](2022/Zazuko_KG_Forum_2022-BKW_Smart_Meter.pdf)
-* [IKEA Systems](https://github.com/zazuko/knowledge-graph-forum/issues/19) (Katariina Kari): Semantic and transparent ETL pipelines.[Slides](2022/Zazuko_KG_Forum_2022-Ikea_Semantic_ETL_Pipelines.pdf)
-* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18) (Cedric Berger): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0.
-* [CUI](https://github.com/zazuko/knowledge-graph-forum/issues/17) (Ashley Caselli): Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data.
+* [IKEA Systems](https://github.com/zazuko/knowledge-graph-forum/issues/19) (Katariina Kari): Semantic and transparent ETL pipelines. [Slides](2022/Zazuko_KG_Forum_2022-Ikea_Semantic_ETL_Pipelines.pdf)
+* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18) (Cedric Berger): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0. [Slides](2022/Zazuko_KG_Forum_2022-Roche_Data_Governance_4.0.pdf)
+* [CUI](https://github.com/zazuko/knowledge-graph-forum/issues/17) (Ashley Caselli): Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data. [Slides](2022/Zazuko_KG_Forum_2022-CUI_Semantic_Regulation_Compliance.pdf)
 * [Ontopic](https://github.com/zazuko/knowledge-graph-forum/issues/16) (Benjamin Cogrel): Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem.
 * [UBS](https://github.com/zazuko/knowledge-graph-forum/issues/15) (Ran Zucker): The role of KGs and the means of implementation in UBS.
 * [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/14) (Thorsten Liebig): KGs and Reasoning - What does it take to manage the complexity of real-world industry problems?

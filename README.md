@@ -1,5 +1,8 @@
 # Knowledge Graph Forum
 
+**Save the date 2024: 30.5.2024 (Thursday) in Basel, Switzerland at Roche!** More information soon.
+
+
 This repository is used for the call for sessions for the Knowledge Graph Forum. 
 
 ![kgforum-banner](https://user-images.githubusercontent.com/583021/189692188-f21d21fb-1e89-4370-a9e2-ee22f58db77e.jpg)

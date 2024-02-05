@@ -21,7 +21,7 @@ We've hosted two previous editions of the Knowledge Graph Forum, both outstandin
 * Sessions & slides from [2019](2019/README.md)
 * Sessions & slides from [2022](2022/README.md)
 
-## What we look for in the sessions
+## What we are looking for
 
 We are keen on exploring a variety of topics and experiences related to RDF-based Knowledge Graphs, including:
 
@@ -30,14 +30,7 @@ We are keen on exploring a variety of topics and experiences related to RDF-base
 * Insightful retrospectives on the use of RDF Knowledge Graphs, highlighting both successes and challenges. We highly value transparency and encourage sharing about projects that may not have met their objectives or faced obstacles.
 * While we welcome contributions from consulting companies, we strongly prefer presentations delivered directly by the clients themselves, ensuring firsthand insights and experiences are shared.
 
-## What we do not look for
-
-* Sales pitches. You are welcome to present whatever you used to solve your problem but focus on the use-case itself and the way you approached it and less on software, especially when it is commercial.
-* Knowledge Graph Forum is strongly leaning towards RDF-based Knowledge Graphs. Other graph databases are of less interest.
-* No paper or research presentations, there are enough conferences for these topics already.
-
-
-## What We Do Not Seek
+## What we are not looking for
 
 Our focus is to foster learning and exchange, steering away from:
 

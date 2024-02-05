@@ -2,7 +2,7 @@
 
 This repository is intended for the Call for Sessions on the Knowledge Graph Forum.
 
-![kgforum-banner](https://user-images.githubusercontent.com/583021/189692188-f21d21fb-1e89-4370-a9e2-ee22f58db77e.jpg)
+![KG-Forum-2024](https://github.com/zazuko/knowledge-graph-forum/assets/583021/92afb264-0aa9-4356-86e2-4c67806877c5)
 
 The Knowledge Graph Forum serves as a platform where companies are invited to share their ongoing work and use cases with Knowledge Graphs. Our goal is to encourage learning and sharing of valuable insights from their projects.
 

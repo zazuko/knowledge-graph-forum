@@ -1,71 +1,42 @@
 # Knowledge Graph Forum
 
-**Save the date 2024: 30.5.2024 (Thursday) in Basel, Switzerland at Roche!** More information soon.
+This repository is intended for the Call for Presentations on the Knowledge Graph Forum. **The CfP is open, see below. Deadline: March 8, 2024.**
 
+![KG-Forum-2024](https://github.com/zazuko/knowledge-graph-forum/assets/583021/92afb264-0aa9-4356-86e2-4c67806877c5)
 
-This repository is used for the call for sessions for the Knowledge Graph Forum. 
+The Knowledge Graph Forum serves as a platform where companies are invited to share their ongoing work and use cases with Knowledge Graphs. Our goal is to encourage learning and sharing of valuable insights from their projects.
 
-![kgforum-banner](https://user-images.githubusercontent.com/583021/189692188-f21d21fb-1e89-4370-a9e2-ee22f58db77e.jpg)
+Presenters will be given 20 minutes to present their use case, followed by a 10-minute discussion slot. The focus will be on the practical aspects of implementation. It is important to note that vendor sales pitches are prohibited.
 
-The Knowledge Graph Forum is a place where companies can present their ongoing work and use cases in the field of knowledge graphs. The aim is to learn and benefit from the experiences and insights gained from their respective projects.
+The event will also provide an excellent opportunity for networking and conversation on topics arising from the presentations. We'll conclude with a traditional Apéro Riche, a customary Swiss-style way to cap off a productive day with an assortment of drinks, finger foods, and snacks, ensuring a perfect blend of professional enrichment and social interaction.
 
-Each company will have 20 minutes to present their use case, followed by a 10-minute discussion. The presentations will focus on practical implementation. Sales presentations by vendors are explicitly not allowed.
+The 2024 edition of the Knowledge Graph Forum is scheduled for **May 30, 2024 (Thursday)**. The venue is at the Roche Tower in Basel, Switzerland, generously provided by [Roche](https://en.wikipedia.org/wiki/Roche).
 
-The venue will provide an opportunity to network and discuss specific topics that may arise from the presentations.
+We are excited to **invite potential speakers to submit their proposals** for presentations at this year's Knowledge Graph Forum. If you have an insightful experience, a challenging project, or innovative use cases related to RDF-based Knowledge Graphs, we would love to hear from you. To propose a presentation, please [create an issue](https://github.com/zazuko/knowledge-graph-forum/issues/new?assignees=&labels=proposal&projects=&template=kg-forum-cfp.md&title=Proposal%3A+%5BYour+Talk+Title+Here%5D) on this GitHub repository using the "KG-Forum CfP Submission" issue template. Ensure to provide a concise overview of your talk, your intended audience, and any feedback or insights you're seeking. This is a fantastic opportunity to share your knowledge and learn from the vibrant community at the forum. For detailed instructions and to submit your proposal, [click here](https://github.com/zazuko/knowledge-graph-forum/issues/new?assignees=&labels=proposal&projects=&template=kg-forum-cfp.md&title=Proposal%3A+%5BYour+Talk+Title+Here%5D). **Please ensure that your proposal is submitted by March 8, 2024, at the latest.**
 
-The 2022 edition of the Knowledge Graph Forum will take place on **September 29 2022 (Thursday)**. It will take place in Zurich, Switzerland at [SIT Academy](https://sit.academy/) which kindly accommodates us (Area [Viadukt/Industriequartier](https://goo.gl/maps/jNkep5FNytVGFMRF7)).
+**Registration for 2024**: Opening soon. We anticipate that there will be sufficient space so that participants will be able to attend without difficulty.
 
-**Registration for 2022**: [Eventfrog](https://eventfrog.ch/de/p/wissenschaft-und-technik/knowledge-graph-forum-2022-en-6972880506569257209.html) or [Eventbrite](https://www.eventbrite.fr/e/knowledge-graph-forum-2022-en-tickets-415903587827)
+## Previous editions
 
-## Presentations 2022
+We've hosted two previous editions of the Knowledge Graph Forum, both outstanding events featuring numerous insightful presentations and engaging discussions.
 
-The program is very dense and very interesting, the following companies will present their use case:
+* Presentations & slides from [2019](2019/README.md)
+* Presentations & slides from [2022](2022/README.md)
 
-* [BKW Energy](https://github.com/zazuko/knowledge-graph-forum/issues/20) (Peter Hutzli): KG for consistent Smart Meter Operations. [Slides](2022/Zazuko_KG_Forum_2022-BKW_Smart_Meter.pdf)
-* [IKEA Systems](https://github.com/zazuko/knowledge-graph-forum/issues/19) (Katariina Kari): Semantic and transparent ETL pipelines. [Slides](2022/Zazuko_KG_Forum_2022-Ikea_Semantic_ETL_Pipelines.pdf)
-* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/18) (Cedric Berger): Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0. [Slides](2022/Zazuko_KG_Forum_2022-Roche_Data_Governance_4.0.pdf)
-* [CUI](https://github.com/zazuko/knowledge-graph-forum/issues/17) (Ashley Caselli): Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data. [Slides](2022/Zazuko_KG_Forum_2022-CUI_Semantic_Regulation_Compliance.pdf)
-* [Ontopic](https://github.com/zazuko/knowledge-graph-forum/issues/16) (Benjamin Cogrel): Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem. [Slides](2022/Zazuko_KG_Forum_2022-Ontopic_Virtual_KG.pdf)
-* [UBS](https://github.com/zazuko/knowledge-graph-forum/issues/15) (Ran Zucker): The role of KGs and the means of implementation in UBS.
-* [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/14) (Thorsten Liebig): KGs and Reasoning - What does it take to manage the complexity of real-world industry problems? [Slides](2022/Zazuko_KG_Forum_2022-derivo-KG_and_Reasoning.pdf)
-* [Siemens Smart Infrastructure](https://github.com/zazuko/knowledge-graph-forum/issues/13) (Maria Husmann): Enabling Large-Scale Data Integrity Checks for Building Automation and Control Systems. [Slides](2022/Zazuko_KG_Forum_2022-Siemens_Data_Integrity.pdf)
-* [La Mobilière](https://github.com/zazuko/knowledge-graph-forum/issues/12) (Adrian Meyer): Know your Data: A Graph based 360° Enterprise  Data Catalog. [Slides](2022/Zazuko_KG_Forum_2022-La_Mobiliere_Data_Catalog.pdf)
-* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/10) (Jerven Bolleman): UniProt: the largest public KG. [Slides](2022/Zazuko_KG_Forum_2022-Uniprot_largest_public_KG.pdf)
-* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/11)(Jerven Bolleman): Federation: beyond the home organization. [Slides](2022/Zazuko_KG_Forum_2022-Federation_beyond_home.pdf)
+## What we are looking for
 
-## Schedule 2022
+We are keen on exploring a variety of topics and experiences related to RDF-based Knowledge Graphs, including:
 
-| Start       | Topic                                                        | Speaker         | Organization                      |
-| ----------- | ------------------------------------------------------------ | --------------- | --------------------------------- |
-| 9:45        | Opening by Zazuko & Short presentation of SIT Academy        |                 |                                   |
-| 10:00       | UniProt: The largest public KG.                              | Jerven Bolleman | Swiss Institute of Bioinformatics |
-| 10:30       | Semantic and transparent ETL pipelines.                      | Katariina Kari  | IKEA Systems                      |
-| 11:00       | The role of KGs and the means of implementation in UBS.      | Ran Zucker      | UBS                               |
-| 11:30       | KG for consistent Smart Meter Operations.                    | Peter Hutzli    | BKW Energy                        |
-| 12:00       | KGs and Reasoning - What does it take to manage the complexity of real-world industry problems? | Thorsten Liebig | derivo                            |
-| 12:30       | Know your Data: A Graph based 360° Enterprise Data Catalog.  | Adrian Meyer    | La Mobilière                      |
-| 13:00-14:00 | Lunch @ Markthalle                                           |                 |                                   |
-| 14:00       | Semantic Regulation Compliance Checking: A real-world scenario involving urban underground data. | Ashley Caselli  | CUI                               |
-| 14:30       | Building a Virtual KG from sensor data using Ontop and the PostgreSQL ecosystem. | Benjamin Cogrel | Ontopic                           |
-| 15:00       | Semantic Modeling of Organizational Knowledge as a Basis for Enterprise Data Governance 4.0. | Cedric Berger   | Roche Pharma                      |
-| 15:30       | Enabling Large-Scale Data Integrity Checks for Building Automation and Control Systems. | Maria Husmann   | Siemens Smart Infrastructure      |
-| 16:00       | Federation: Beyond the home organization.                    | Jerven Bolleman | Swiss Institute of Bioinformatics |
-| 16:30       | Apéro & Networking                                           |                 |                                   |
+* Real-world applications and case studies involving RDF-based Knowledge Graphs.
+* Discussions on scaling RDF in practical scenarios, alongside showcasing prototypes, tools, libraries, and other relevant technologies.
+* Insightful retrospectives on the use of RDF Knowledge Graphs, highlighting both successes and challenges. We highly value transparency and encourage sharing about projects that may not have met their objectives or faced obstacles.
+* While we welcome contributions from consulting companies, we strongly prefer presentations delivered directly by the clients themselves, ensuring firsthand insights and experiences are shared.
 
+## What we are *not* looking for
 
-## Presentations 2019
+Our focus is to foster learning and exchange, steering away from:
 
-The first edition 2019 was a great success, please see the [separate page](2019/README.md) for links to videos & presentations (where available).
+* Sales pitches. While sharing solutions to challenges is encouraged, the emphasis should be on the problem-solving process and the use case itself, rather than the software or tools used, particularly if they are commercial products.
+* Academic contributions or purely research-oriented presentations. The forum is intended to focus on practical applications and experiences, as there is no shortage of opportunities for academic discourse at scientific conferences.
 
-## What we look for in the sessions
-
-* Real-world use cases of RDF-based Knowledge Graphs.
-* Any topic about scaling and using RDF in the real world. This includes prototypes, tools, libraries, etc.
-* Lessons learned in using RDF Knowledge Graphs in the real world. We also welcome things that did not work out and projects that failed!
-* If you are a consulting company, we prefer if your customer is doing the presentation.
-
-## What we do not look for
-
-* Sales pitches. You are welcome to present whatever you used to solve your problem but focus on the use-case itself and the way you approached it and less on software, especially when it is commercial.
-* Knowledge Graph Forum is strongly leaning towards RDF-based Knowledge Graphs. Other graph databases are of less interest.
-* No paper or research presentations, there are enough conferences for these topics already.
+Our primary interest lies in RDF-based Knowledge Graphs. Presentations on non-RDF graph technologies, such as property graphs, are generally of less interest, unless they specifically address integration with or transitioning to RDF systems and demonstrate how to bridge between different graph technologies.

@@ -6,7 +6,7 @@ This repository is intended for the Call for Sessions on the Knowledge Graph For
 
 The Knowledge Graph Forum serves as a platform where companies are invited to share their ongoing work and use cases with Knowledge Graphs. Our goal is to encourage learning and sharing of valuable insights from their projects.
 
-Participants will be given 20 minutes to present their use case, followed by a 10-minute discussion slot. The focus will be on the practical aspects of implementation. It is important to note that vendor sales pitches are prohibited.
+Presenters will be given 20 minutes to present their use case, followed by a 10-minute discussion slot. The focus will be on the practical aspects of implementation. It is important to note that vendor sales pitches are prohibited.
 
 The event will also provide an excellent opportunity for networking and conversation on topics arising from the sessions.
 

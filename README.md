@@ -8,7 +8,7 @@ The Knowledge Graph Forum serves as a platform where companies are invited to sh
 
 Presenters will be given 20 minutes to present their use case, followed by a 10-minute discussion slot. The focus will be on the practical aspects of implementation. It is important to note that vendor sales pitches are prohibited.
 
-The event will also provide an excellent opportunity for networking and conversation on topics arising from the sessions.
+The event will also provide an excellent opportunity for networking and conversation on topics arising from the sessions. We'll conclude with a traditional Apéro Riche, a customary Swiss-style way to cap off a productive day with an assortment of drinks, finger foods, and snacks, ensuring a perfect blend of professional enrichment and social interaction.
 
 The 2024 edition of the Knowledge Graph Forum is scheduled for **May 30, 2024 (Thursday)**. The venue is at the Roche Tower in Basel, Switzerland, generously provided by [Roche](https://en.wikipedia.org/wiki/Roche).
 
@@ -16,7 +16,7 @@ The 2024 edition of the Knowledge Graph Forum is scheduled for **May 30, 2024 (T
 
 ## Previous editions
 
-We've hosted two previous editions of the Knowledge Graph Forum, both outstanding events featuring numerous insightful presentations and engaging discussions. Each forum concluded with a traditional Apéro Riche, a customary Swiss-style way to cap off a productive day with an assortment of drinks, finger foods, and snacks.
+We've hosted two previous editions of the Knowledge Graph Forum, both outstanding events featuring numerous insightful presentations and engaging discussions.
 
 * Sessions & slides from [2019](2019/README.md)
 * Sessions & slides from [2022](2022/README.md)
@@ -30,7 +30,7 @@ We are keen on exploring a variety of topics and experiences related to RDF-base
 * Insightful retrospectives on the use of RDF Knowledge Graphs, highlighting both successes and challenges. We highly value transparency and encourage sharing about projects that may not have met their objectives or faced obstacles.
 * While we welcome contributions from consulting companies, we strongly prefer presentations delivered directly by the clients themselves, ensuring firsthand insights and experiences are shared.
 
-## What we are not looking for
+## What we are *not* looking for
 
 Our focus is to foster learning and exchange, steering away from:
 

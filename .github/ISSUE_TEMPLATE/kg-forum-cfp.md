@@ -26,7 +26,7 @@ _Share your name, affiliation, and a brief background relevant to the topic you'
 _Would you be comfortable with your session being recorded and shared publicly? (This does not affect selection. Please answer YES or NO.)_
 
 ## Workshop Potential
-_Do you think your topic could be extended into a half-day workshop? (This is just for planning purposes, might or might not happen. And it won't affect your proposal's selection. Please answer YES or NO.)_
+_Do you think your topic could be extended into a workshop session of 2-4 hours? (This is just for planning purposes, might or might not happen. And it won't affect your proposal's selection. Please answer YES or NO.)_
 
 ## Visual Aid for Social Media
 _We'd love to feature your session in our social media promotion. Please attach a picture or screenshot related to your talk. Ensure there's no confidential information displayed. Images should be high-resolution and visually engaging._

@@ -1,6 +1,6 @@
 # Knowledge Graph Forum
 
-This repository is intended for the Call for Presentations on the Knowledge Graph Forum.
+This repository is intended for the Call for Presentations on the Knowledge Graph Forum. **The CfP is open, see below. Deadline: 8. March 2024.**
 
 ![KG-Forum-2024](https://github.com/zazuko/knowledge-graph-forum/assets/583021/92afb264-0aa9-4356-86e2-4c67806877c5)
 
@@ -12,7 +12,7 @@ The event will also provide an excellent opportunity for networking and conversa
 
 The 2024 edition of the Knowledge Graph Forum is scheduled for **May 30, 2024 (Thursday)**. The venue is at the Roche Tower in Basel, Switzerland, generously provided by [Roche](https://en.wikipedia.org/wiki/Roche).
 
-We are excited to **invite potential speakers to submit their proposals** for presentations at this year's Knowledge Graph Forum. If you have an insightful experience, a challenging project, or innovative use cases related to RDF-based Knowledge Graphs, we would love to hear from you. To propose a presentation, please [create an issue](https://github.com/zazuko/knowledge-graph-forum/issues/new?assignees=&labels=proposal&projects=&template=kg-forum-cfp.md&title=Proposal%3A+%5BYour+Talk+Title+Here%5D) on this GitHub repository using the "KG-Forum CfP Submission" issue template. Ensure to provide a concise overview of your talk, your intended audience, and any feedback or insights you're seeking. This is a fantastic opportunity to share your knowledge and learn from the vibrant community at the forum. For detailed instructions and to submit your proposal, [click here](https://github.com/zazuko/knowledge-graph-forum/issues/new?assignees=&labels=proposal&projects=&template=kg-forum-cfp.md&title=Proposal%3A+%5BYour+Talk+Title+Here%5D).
+We are excited to **invite potential speakers to submit their proposals** for presentations at this year's Knowledge Graph Forum. If you have an insightful experience, a challenging project, or innovative use cases related to RDF-based Knowledge Graphs, we would love to hear from you. To propose a presentation, please [create an issue](https://github.com/zazuko/knowledge-graph-forum/issues/new?assignees=&labels=proposal&projects=&template=kg-forum-cfp.md&title=Proposal%3A+%5BYour+Talk+Title+Here%5D) on this GitHub repository using the "KG-Forum CfP Submission" issue template. Ensure to provide a concise overview of your talk, your intended audience, and any feedback or insights you're seeking. This is a fantastic opportunity to share your knowledge and learn from the vibrant community at the forum. For detailed instructions and to submit your proposal, [click here](https://github.com/zazuko/knowledge-graph-forum/issues/new?assignees=&labels=proposal&projects=&template=kg-forum-cfp.md&title=Proposal%3A+%5BYour+Talk+Title+Here%5D). **Please ensure that your proposal is submitted by March 8, 2024, at the latest.**
 
 **Registration for 2024**: Opening soon. We anticipate that there will be sufficient space so that participants will be able to attend without difficulty.
 

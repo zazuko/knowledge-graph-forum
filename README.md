@@ -1,6 +1,6 @@
 # Knowledge Graph Forum
 
-This repository is intended for the Call for Presentations on the Knowledge Graph Forum. **The CfP is open, see below. Deadline: 8. March 2024.**
+This repository is intended for the Call for Presentations on the Knowledge Graph Forum. **The CfP is open, see below. Deadline: March 8, 2024.**
 
 ![KG-Forum-2024](https://github.com/zazuko/knowledge-graph-forum/assets/583021/92afb264-0aa9-4356-86e2-4c67806877c5)
 

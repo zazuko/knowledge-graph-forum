@@ -23,7 +23,7 @@ The following sessions are confirmed as of early April 2024:
 * Roche Pharma (Cedric Berger): Using graphs in a [VUCA](https://en.wikipedia.org/wiki/VUCA) business environment.
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/22) (Jerven Bolleman): UniProt, Rhea, Swiss-Lipids and HAMAP and from huge to tiny. Practical SPARQL in the life sciences.
 * [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/23) (Thorsten Liebig): Visual Analysis and Querying of Large Knowledge Graphs.
-* Ontopic/Zazuko (Benjamin Cogrel, Adrian Gschwend): Semantically lifting & scaling OLAP Cubes with SPARQL & SQL.
+* [Ontopic/Zazuko](Ontopic/Zazuko) (Benjamin Cogrel, Adrian Gschwend): Semantically Enhancing OLAP Cubes: Integrating SPARQL and SQL for Next-Generation Data Publication & Business Intelligence
 * [SDSC](https://github.com/zazuko/knowledge-graph-forum/issues/24) (Robin Franken, Carlos Vivar Rios): Using SHACL and RDF technologies to run an open source platform of curated, searchable imaging software.
 * [EPFL Blue Brain Project](https://github.com/zazuko/knowledge-graph-forum/issues/26) (Mohameth François Sy): A "bring to MINDS" approach for large scale neuroscience knowledge graph
 * Bit42/Zazuko (Thomas Bodenmann & TBD) The earth is not flat, and neither is your graph: User Experience beyond bubbles.

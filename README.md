@@ -20,6 +20,7 @@ The CfP is closed, all sessions are selected.
 
 The following sessions are confirmed as of early April 2024:
 
+* Amazon (Ora Lassila): Keynote, more details soon.
 * [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/28) (Cedric Berger): Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers.
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/22) (Jerven Bolleman): UniProt, Rhea, Swiss-Lipids and HAMAP and from huge to tiny. Practical SPARQL in the life sciences.
 * [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/23) (Thorsten Liebig): Visual Analysis and Querying of Large Knowledge Graphs.

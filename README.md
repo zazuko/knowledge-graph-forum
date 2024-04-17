@@ -20,7 +20,7 @@ The CfP is closed, all sessions are selected.
 
 The following sessions are confirmed as of early April 2024:
 
-* Roche Pharma (Cedric Berger): Using graphs in a [VUCA](https://en.wikipedia.org/wiki/VUCA) business environment.
+* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/28) (Cedric Berger): Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers.
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/22) (Jerven Bolleman): UniProt, Rhea, Swiss-Lipids and HAMAP and from huge to tiny. Practical SPARQL in the life sciences.
 * [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/23) (Thorsten Liebig): Visual Analysis and Querying of Large Knowledge Graphs.
 * [Ontopic/Zazuko](https://github.com/zazuko/knowledge-graph-forum/issues/27) (Benjamin Cogrel, Adrian Gschwend): Semantically Enhancing OLAP Cubes: Integrating SPARQL and SQL for Next-Generation Data Publication & Business Intelligence

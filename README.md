@@ -37,8 +37,8 @@ One more sessions is still pending; it will be published as soon as it is confir
 
 We've hosted two previous editions of the Knowledge Graph Forum, both outstanding events featuring numerous insightful presentations and engaging discussions.
 
-* Presentations & slides from [2019](2019/README.md)
 * Presentations & slides from [2022](2022/README.md)
+* Presentations & slides from [2019](2019/README.md)
 
 ## What we are looking for
 

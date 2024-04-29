@@ -22,6 +22,7 @@ The following sessions are confirmed as of early April 2024:
 
 * Amazon (Ora Lassila): Keynote, more details soon.
 * [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/28) (Cedric Berger): Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers.
+* Schneider-Electric/Semantic Arts (Dave McComb): How converting a product catalog to a graph reduced complexity by two orders of magnitude. Lessons learned, plus and minus. 
 * [BMW/Oxford Semantic Technologies](https://github.com/zazuko/knowledge-graph-forum/issues/29) (Haonan Qiu, Peter Crocker): Reasoning rules the road: semantic reasoning on knowledge graphs deployed on-device in vehicles.
 * [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/22) (Jerven Bolleman): UniProt, Rhea, Swiss-Lipids and HAMAP and from huge to tiny. Practical SPARQL in the life sciences.
 * [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/23) (Thorsten Liebig): Visual Analysis and Querying of Large Knowledge Graphs.

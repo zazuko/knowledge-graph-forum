@@ -14,7 +14,7 @@ The 2024 edition of the Knowledge Graph Forum is scheduled for **May 30, 2024 (T
 
 The CfP is closed, all sessions are selected.
 
-**Registration for 2024**: [Tickets are on sale now](https://eventfrog.ch/en/p/science-and-technology/knowledge-graph-forum-2024-7183480931130241817.html). We provide free tickets for students, get [in contact with us](mailto:info@zazuko.com?subject=KG-Forum%20Ticket) if you would like to get in for free! If you need a PDF with a Swiss QR-Code bill instead, contact us as well so we can send you one to your company address. Online payment is preferred for administrative reasons.
+**Registration for 2024**: [Tickets are on sale now](https://eventfrog.ch/en/p/science-and-technology/knowledge-graph-forum-2024-7183480931130241817.html). We provide free tickets for students, just select the appropriate category. If you need a PDF with a Swiss QR-Code bill instead, [contact us](mailto:info@zazuko.com?subject=KG-Forum%20Ticket) as well so we can send you one to your company address. Online payment is preferred for administrative reasons.
 
 ## 2024 Sessions
 

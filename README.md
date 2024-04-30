@@ -30,7 +30,7 @@ The following sessions are confirmed as of early April 2024:
 * [SDSC](https://github.com/zazuko/knowledge-graph-forum/issues/24) (Robin Franken, Carlos Vivar Rios): Using SHACL and RDF technologies to run an open source platform of curated, searchable imaging software.
 * [EPFL Blue Brain Project](https://github.com/zazuko/knowledge-graph-forum/issues/26) (Mohameth François Sy): A "bring to MINDS" approach for large scale neuroscience knowledge graph
 * [SPHN](https://github.com/zazuko/knowledge-graph-forum/issues/30) (Vasundra Touré): The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema
-* TBD/Zazuko (TBD) The earth is not flat, and neither is your graph: User Experience beyond bubbles.
+* Zazuko (Adrian Gschwend) The earth is not flat, and neither is your graph: User Experience beyond bubbles.
 
 One more sessions is still pending; it will be published as soon as it is confirmed. Details of the remaining sessions will follow shortly.
 

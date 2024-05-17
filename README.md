@@ -20,7 +20,7 @@ The CfP is closed, all sessions are selected.
 
 The following sessions are confirmed as of early April 2024:
 
-* Amazon (Ora Lassila): Keynote, more details soon.
+* [Amazon](https://github.com/zazuko/knowledge-graph-forum/issues/33) (Ora Lassila) __Keynote__: Reflecting on the Semantic Web Vision
 * [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/28) (Cedric Berger): Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers.
 * [Schneider-Electric/Semantic Arts](https://github.com/zazuko/knowledge-graph-forum/issues/31) (Dave McComb): How converting a product catalog to a graph reduced complexity by two orders of magnitude. Lessons learned, plus and minus. 
 * [BMW/Oxford Semantic Technologies](https://github.com/zazuko/knowledge-graph-forum/issues/29) (Haonan Qiu, Peter Crocker): Reasoning rules the road: semantic reasoning on knowledge graphs deployed on-device in vehicles.

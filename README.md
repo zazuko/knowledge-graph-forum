@@ -18,22 +18,27 @@ The CfP is closed, all sessions are selected.
 
 ## 2024 Sessions
 
-The following sessions are confirmed as of early April 2024:
-
-* [Amazon](https://github.com/zazuko/knowledge-graph-forum/issues/33) (Ora Lassila) __Keynote__: Reflecting on the Semantic Web Vision
-* [Roche Pharma](https://github.com/zazuko/knowledge-graph-forum/issues/28) (Cedric Berger): Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers.
-* [Schneider-Electric/Semantic Arts](https://github.com/zazuko/knowledge-graph-forum/issues/31) (Dave McComb): How converting a product catalog to a graph reduced complexity by two orders of magnitude. Lessons learned, plus and minus. 
-* [BMW/Oxford Semantic Technologies](https://github.com/zazuko/knowledge-graph-forum/issues/29) (Haonan Qiu, Peter Crocker): Reasoning rules the road: semantic reasoning on knowledge graphs deployed on-device in vehicles.
-* [Swiss Institute of Bioinformatics](https://github.com/zazuko/knowledge-graph-forum/issues/22) (Jerven Bolleman): UniProt, Rhea, Swiss-Lipids and HAMAP and from huge to tiny. Practical SPARQL in the life sciences.
-* [derivo](https://github.com/zazuko/knowledge-graph-forum/issues/23) (Thorsten Liebig): Visual Analysis and Querying of Large Knowledge Graphs.
-* [Ontopic/Zazuko](https://github.com/zazuko/knowledge-graph-forum/issues/27) (Benjamin Cogrel, Adrian Gschwend): Semantically Enhancing OLAP Cubes: Integrating SPARQL and SQL for Next-Generation Data Publication & Business Intelligence
-* [SDSC](https://github.com/zazuko/knowledge-graph-forum/issues/24) (Robin Franken, Carlos Vivar Rios): Using SHACL and RDF technologies to run an open source platform of curated, searchable imaging software.
-* [EPFL Blue Brain Project](https://github.com/zazuko/knowledge-graph-forum/issues/26) (Mohameth François Sy): A "bring to MINDS" approach for large scale neuroscience knowledge graph
-* [SPHN](https://github.com/zazuko/knowledge-graph-forum/issues/30) (Vasundra Touré): The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema
-* [Zazuko](https://github.com/zazuko/knowledge-graph-forum/issues/34) (Adrian Gschwend): The earth is not flat, and neither is your graph: User Experience beyond bubbles.
-* [KRDB](https://github.com/zazuko/knowledge-graph-forum/issues/32) (Enrico Franconi ): The Semantic SQL Transducer: seamless knowledge graphs and databases interoperation
-
-One more sessions is still pending; it will be published as soon as it is confirmed. Details of the remaining sessions will follow shortly.
+| Start       | Topic                                                        | Speaker                          | Organization                     |
+| ----------- | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
+| 9:15        | *Opening*                                                    | Adrian Gschwend                  | Zazuko                           |
+| 9:30        | [Keynote: Reflecting on the Semantic Web Vision](https://github.com/zazuko/knowledge-graph-forum/issues/33) | Ora Lassila                      | Amazon                           |
+| 10:00       | [Semantically Enhancing OLAP Cubes: Integrating SPARQL and SQL for Next-Generation Data Publication & Business Intelligence](https://github.com/zazuko/knowledge-graph-forum/issues/27) | Benjamin Cogrel, Adrian Gschwend | Ontopic/Zazuko                   |
+| 10:30       | [Using SHACL and RDF technologies to run an open source platform of curated, searchable imaging software](https://github.com/zazuko/knowledge-graph-forum/issues/24) | Robin Franken, Carlos Vivar Rios | SDSC                             |
+| 11:00       | *Coffee break*                                               |                                  |                                  |
+| 11:30       | [How converting a product catalog to a graph reduced complexity by two orders of magnitude](https://github.com/zazuko/knowledge-graph-forum/issues/31) | Dave McComb                      | Semantic Arts                    |
+| 12:00       | [Reasoning rules the road: semantic reasoning on knowledge graphs deployed on-device in vehicles](https://github.com/zazuko/knowledge-graph-forum/issues/29) | Haonan Qiu, Peter Crocker        | BMW/Oxford Semantic Technologies |
+| 12:30       | [A "bring to MINDS" approach for large scale neuroscience knowledge graph](https://github.com/zazuko/knowledge-graph-forum/issues/26) | Mohameth François Sy             | EPFL                             |
+| 13:00-14:00 | *Lunch Buffet*                                               |                                  |                                  |
+| 14:00       | [Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers](https://github.com/zazuko/knowledge-graph-forum/issues/28) | Cedric Berger                    | Roche                            |
+| 14:30       | [The earth is not flat, and neither is your graph: User Experience beyond bubbles](https://github.com/zazuko/knowledge-graph-forum/issues/34) | Adrian Gschwend                  | Zazuko                           |
+| 15:00       | [The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema (parallel session)](https://github.com/zazuko/knowledge-graph-forum/issues/30) | Vasundra Touré                   | SPHN                             |
+| 15:00       | The QLever SPARQL engine (parallel session)                  | Hannah Bast                      | Uni Freiburg                     |
+| 15:30       | *Coffee break*                                               |                                  |                                  |
+| 16:00       | [Visual Analysis and Querying of Large Knowledge Graphs](https://github.com/zazuko/knowledge-graph-forum/issues/23) | Thorsten Liebig                  | Derivo                           |
+| 16:30       | [UniProt, Rhea, Swiss-Lipids and HAMAP and from huge to tiny. Practical SPARQL in the life sciences](https://github.com/zazuko/knowledge-graph-forum/issues/22) | Jerven Bolleman                  | SIB                              |
+| 17:00       | [The Semantic SQL Transducer: seamless knowledge graphs and databases interoperation](https://github.com/zazuko/knowledge-graph-forum/issues/32) | Enrico Franconi                  | KRDB                             |
+| 17:30       | *Networking & Apéro*                                         |                                  |                                  |
+| 22:00       | *End*                                                        |                                  |                                  |
 
 ## Previous editions
 

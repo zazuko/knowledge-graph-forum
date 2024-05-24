@@ -18,6 +18,10 @@ The CfP is closed, all sessions are selected.
 
 ## 2024 Sessions
 
+Location: Roche Tower 1, on Google Maps: https://maps.app.goo.gl/Ujss1Me1aPJZKNCfA 
+
+Address: Grenzacherstrasse 124, 4070 Basel
+
 | Start       | Topic                                                        | Speaker                          | Organization                     |
 | ----------- | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
 | 9:15        | *Opening*                                                    | Adrian Gschwend                  | Zazuko                           |
@@ -31,7 +35,7 @@ The CfP is closed, all sessions are selected.
 | 13:00-14:00 | *Lunch Buffet*                                               |                                  |                                  |
 | 14:00       | [Harnessing digital complexity and enabling AI - Semantic knowledge graph as universal enablers](https://github.com/zazuko/knowledge-graph-forum/issues/28) | Cedric Berger                    | Roche                            |
 | 14:30       | [The earth is not flat, and neither is your graph: User Experience beyond bubbles](https://github.com/zazuko/knowledge-graph-forum/issues/34) | Adrian Gschwend                  | Zazuko                           |
-| 15:00       | [The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema (parallel session)](https://github.com/zazuko/knowledge-graph-forum/issues/30) | Vasundra Touré                   | SPHN                             |
+| 15:00       | [The SPHN SHACLer: Automatic generation of SHACL rules based on the SPHN RDF Schema](https://github.com/zazuko/knowledge-graph-forum/issues/30) (parallel session) | Vasundra Touré                   | SPHN                             |
 | 15:00       | The QLever SPARQL engine (parallel session)                  | Hannah Bast                      | Uni Freiburg                     |
 | 15:30       | *Coffee break*                                               |                                  |                                  |
 | 16:00       | [Visual Analysis and Querying of Large Knowledge Graphs](https://github.com/zazuko/knowledge-graph-forum/issues/23) | Thorsten Liebig                  | Derivo                           |

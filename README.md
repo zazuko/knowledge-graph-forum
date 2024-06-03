@@ -18,7 +18,7 @@ The CfP is closed, all sessions are selected.
 
 ## 2024 Sessions
 
-Our event is over, we will update this document with slides & videos for the presentations.
+Our event has concluded. We will update this document with slides and videos of the presentations.
 
 | Topic                                                        | Speaker                                                      | Organization                                                 | Slides                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
